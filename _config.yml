@@ -1,8 +1,20 @@
-layout_spectrum: 0.3571428
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5757629
 color:
   saturation: 0.3911165
-  lightness: 0.2055522
   brandStrength: 0.8361976
+  lightness: 0.7792696
   brandColors:
     - '#070602'
     - '#332613'
@@ -10,5 +22,5 @@ color:
     - '#9F865D'
     - '#F1EBEF'
   rhythmicContrast: 0.7395274
-typography_spectrum: 0.5757629
+layout_spectrum: 0.3571428
 name: "They're Only Here for  #theexperience"
