@@ -1,0 +1,14 @@
+layout_spectrum: 0.3571428
+color:
+  saturation: 0.3911165
+  lightness: 0.2055522
+  brandStrength: 0.8361976
+  brandColors:
+    - '#070602'
+    - '#332613'
+    - '#474F52'
+    - '#9F865D'
+    - '#F1EBEF'
+  rhythmicContrast: 0.7395274
+typography_spectrum: 0.5757629
+name: "They're Only Here for  #theexperience"
