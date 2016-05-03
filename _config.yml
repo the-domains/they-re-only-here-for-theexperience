@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.5757629
 color:
-  saturation: 0.3911165
+  saturation: 0.82116
   brandStrength: 0.8361976
-  lightness: 0.7792696
+  lightness: 0.8265306
   brandColors:
     - '#070602'
     - '#332613'
     - '#474F52'
     - '#9F865D'
     - '#F1EBEF'
-  rhythmicContrast: 0.7395274
+  rhythmicContrast: 0.7663802
+typography_spectrum: 0.5757629
 layout_spectrum: 0.3571428
 name: "They're Only Here for  #theexperience"
